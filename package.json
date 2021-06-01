@@ -1,0 +1,24 @@
+{
+  "name": "btata",
+  "version": "1.0.0",
+  "description": "## My Domain [AWS Deployed Link with route](https://celimhvmx1.execute-api.us-east-1.amazonaws.com/people)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IshaqAlathamneh/btata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IshaqAlathamneh/btata/issues"
+  },
+  "homepage": "https://github.com/IshaqAlathamneh/btata#readme",
+  "dependencies": {
+    "jest": "^27.0.3",
+    "superagent": "^6.1.0"
+  }
+}
